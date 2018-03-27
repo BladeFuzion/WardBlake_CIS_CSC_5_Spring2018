@@ -1,0 +1,33 @@
+Calculated with a float
+
+Loan Amount         = $10000.00
+Interest Rate       =     12%/year
+Number of Payments  =     36
+Monthly Payment     = $  332.14
+Total Paid for Loan = $11957.16
+Total Interest      = $ 1957.16
+RUN SUCCESSFUL (total time: 875ms)
+
+Calculated with a double
+
+Loan Amount         = $10000.00
+Interest Rate       =     12%/year
+Number of Payments  =     36
+Monthly Payment     = $  332.14
+Total Paid for Loan = $11957.15
+Total Interest      = $ 1957.15
+RUN SUCCESSFUL (total time: 109ms)
+
+
+More Correct Answer
+
+Loan Amount         = $10000.00
+Interest Rate       =     12%/year
+Number of Payments  =     36
+Monthly Payment     = $  332.14
+Total Paid for Loan = $11957.04
+Total Interest      = $ 1957.04
+RUN SUCCESSFUL (total time: 1s)
+
+
+
